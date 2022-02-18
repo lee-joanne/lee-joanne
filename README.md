@@ -8,7 +8,7 @@ I'm currently a student at Code Institute enrolled in the Diploma Full Stack Sof
 ### 📚 Currently Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50px" height="50px" />
 
-### 🚀 GitHub Stats 
+### ✨ GitHub Stats 
 
 ![Joanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-joanne&show_icons=true&theme=apprentice)
                                                                                                                                        
