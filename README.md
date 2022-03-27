@@ -6,6 +6,7 @@ I'm currently a student at Code Institute enrolled in the Diploma in Full Stack 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" title="HTML 5" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" title="CSS" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="Javascript" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50px" height="50px" />
 
 ### 📚 Currently Learning
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" title="Bootstrap" width="50px" height="50px" /> 
 
 ### ✨ GitHub Stats 
 
