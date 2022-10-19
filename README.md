@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joanne
 
-I'm currently a student at Code Institute enrolled in the Diploma in Full Stack Software Development course. I am originally from Ontario, Canada living in Cork, Ireland.
+I'm currently a student at Code Institute enrolled in the Diploma in Full Stack Software Development course. I am originally from Ontario, Canada living in Cork, Ireland. Relocating to Vancouver, BC in 2023. 
 
 
 ### ✨ GitHub Stats 
