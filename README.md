@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joanne
 
-Junior Full Stack Developer living in Vancouver, BC. Currently employed at Code Institute as a Software Developer & Learning Success Tutor.
+Junior Full Stack Developer living in Vancouver, BC. Currently employed at Inkeros as a Full Stack Software Developer.
 
 
 ### ✨ GitHub Stats 
