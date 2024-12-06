@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joanne
 
-Junior Full Stack Developer living in Vancouver, BC. Currently employed at Inkeros as a Full Stack Software Developer.
+Full Stack Developer living in Vancouver, BC. Currently employed at Inkeros as a Full Stack Software Developer.
 
 
 ### ✨ GitHub Stats 
