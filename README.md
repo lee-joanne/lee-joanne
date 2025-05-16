@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joanne
 
-Full Stack Developer living in Vancouver, BC. 
+Full Stack Developer & UI/UX Designer living in Vancouver, BC. 
 
 
 ### ✨ GitHub Stats 
